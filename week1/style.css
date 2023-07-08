@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: aqua;
+}
+
+p{
+    color: blue;
+}
+
+button{
+    padding: 10px 20px;
+    background-color:yellow;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
